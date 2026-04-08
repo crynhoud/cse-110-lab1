@@ -53,7 +53,7 @@ for(int i = 0; i < 1000; i++){
 
 My old coffee machine is running on it's last legs so if anyone reading this would like to order me a new one, here is a link to a Keurig on amazon that I have been looking at: [Amazon](https://a.co/d/0hgBGxZP)
 
-Also if you want to learn how more about my thoughts on different types of coffee click here: [coffee.md](\coffee.md)
+Also if you want to learn how more about my thoughts on different types of coffee click here: [coffee.md](/coffee.md)
 
 ## I am a Person
 I like to think of myself as a friendly individual although I can be quite shy at times. Coding is a big part of my personality, however, I covered much of that in the programmer section so if you missed that you can click this link to check it out: [I am a Programmer](#i-am-a-programmer). Qualities about myself that I enjoy are in this order:
