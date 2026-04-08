@@ -24,12 +24,12 @@ animals[0] = "cow";
 animals[1] = "horse";
 animals[2] = "sheep";
 ```
-Check out this page of my parts of Minecraft: [minecraft.md](/minecraft.md)
+Check out this page of my favorite parts of Minecraft: [minecraft.md](/minecraft.md)
 
 
 So Java and Minecraft became a large part of who I am as a person and if you want to learn more about that side of me click this link to go to the person section: [I am a Person](#i-am-a-person).
 
-Also if you want to learn how more about me you can check out the readme page here: [readme.md](\README.md)
+
 
 ### I Like Coffee
 
@@ -52,6 +52,8 @@ for(int i = 0; i < 1000; i++){
 ```
 
 My old coffee machine is running on it's last legs so if anyone reading this would like to order me a new one, here is a link to a Keurig on amazon that I have been looking at: [Amazon](https://a.co/d/0hgBGxZP)
+
+Also if you want to learn how more about my thoughts on different types of coffee click here: [coffee.md](\coffee.md)
 
 ## I am a Person
 I like to think of myself as a friendly individual although I can be quite shy at times. Coding is a big part of my personality, however, I covered much of that in the programmer section so if you missed that you can click this link to check it out: [I am a Programmer](#i-am-a-programmer). Qualities about myself that I enjoy are in this order:
